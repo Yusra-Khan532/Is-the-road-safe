@@ -5,5 +5,4 @@
 
 
 #PART C 
-As we know Linear regression can be used to determine a particular variable using other variable. Here we predicted CO2EMISSIONS with the help of other variables like 
-ENGINESIZE, CYLINDERS etc. 
+As we know Linear regression can be used to predict a particular variable (continuous) using other variable. Here we predicted CO2EMISSIONS with the help of other variables like ENGINESIZE, FUELCONSUMPTION_CITY etc. This is an example of multivariable regression.  
